@@ -11,6 +11,7 @@ const Header = () => {
           <small>Journalism Without Fear or Favor</small>
         </p>
         <p>{moment().format("dddd, MMMM D, YYYY")}</p>
+        <p>{moment().format("dddd, MMMM D, YYYY")}</p>
       </div>
     </div>
   );
