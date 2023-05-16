@@ -29,6 +29,9 @@ const NavigationBar = () => {
               <Link className="text-decoration-none" to="/category/0">
                 Home
               </Link>
+              <Link className="mx-5 text-decoration-none" to="/googleMap">
+                Map Location
+              </Link>
 
               <Nav.Link href="#pricing">About</Nav.Link>
               <Nav.Link href="#pricing">Career</Nav.Link>
